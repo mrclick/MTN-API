@@ -1,12 +1,9 @@
-#MTN-API-BongoHive-Session
+#MTN-API
 
-**Code and notes for MTN API session at Bongo Hive**
+**Code and notes for MTN API **
 
-So, Bongo Hive was gracious enough to setup an event for developers to share their experiences with the MTN API and also attract businesses, individuals, entusiasts, etc, interested in utilising MTN services, to see what power can be harnessed from this platform.
-
-Event page: <a href="https://www.eventbrite.com/e/an-introduction-to-the-mtn-api-tickets-29271818798" title="An Introduction to the MTN API" target="_blank">An Introduction to the MTN API</a>
-
-I would like to share my experience with the MTN API. If I was asked to put that into one sentence, it would be:
+Us You have seen that this is a fork project i have found that all of resources provided  doesn't work only for MTN Zambia but for all MTN Subsidiaries , I don't know for you but for me i didn't even know that a lot of this resources is available(Am based in RWANDA) it's had to intergrate MTN API services with your existing services many developer don't even know at least which step to proceed or even what kind of stack or techs required to be able to intergrate successful with MTN network that why forked this repo and modified it to be in general not only session provided at BongoHive  in Zambia great thanks to original Author @Chizzoz ,
+So, individuals, entusiasts, etc, interested in utilising MTN services, to see what power can be harnessed from this platform.   
 ##A Web Approach to Integrating MTN API
 And below are some highlights:
 
@@ -182,3 +179,6 @@ XML;
   - Lastly, you might want to extend your app beyond the browser to other mobile platforms, SMS, USSD, etc using URL queries. To do that, you will also need to create your own API that provides interaction with your app. 
 
 So, that's about it. Thank you for your time!
+
+## Author: Chizzoz  
+## Modified-by: miller
